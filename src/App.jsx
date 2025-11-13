@@ -43,7 +43,7 @@ const App = () => {
           element={<h2 className="text-red-600 text-center">Page not found</h2>}
         />
       </Routes>
-       <nav className="flex justify-center mb-8 space-x-6 mt-4">
+       <nav className="flex justify-center fixed bottom-0 w-full z-50 space-x-8 mt-4 p-5 bg-gray-500 shadow-sm">
           <Link to="/manatee" className="hover:text-blue-500">
             Manatee
           </Link>
