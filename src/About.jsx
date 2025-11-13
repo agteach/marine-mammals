@@ -25,6 +25,16 @@ const About = () => {
         styled using <span className="font-semibold text-blue-500">Tailwind CSS</span>,
         this app demonstrates routing, components, and clean UI design.
       </p>
+      <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
+        Built with <span className="font-semibold text-blue-500">React</span> and
+        styled using <span className="font-semibold text-blue-500">Tailwind CSS</span>,
+        this app demonstrates routing, components, and clean UI design.
+      </p>
+      <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
+        Built with <span className="font-semibold text-blue-500">React</span> and
+        styled using <span className="font-semibold text-blue-500">Tailwind CSS</span>,
+        this app demonstrates routing, components, and clean UI design.
+      </p>
     </div>
   );
 };
